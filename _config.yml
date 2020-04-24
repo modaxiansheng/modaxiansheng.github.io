@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://modaxiansheng.org
+url: 
 date_format: "ordinal"
 title: 莫大先生的学习笔记
 subtitle: "个人微信：莫大先生"
@@ -135,4 +134,3 @@ google:
         content_footer: false
 =======
 theme: jekyll-theme-architect
->>>>>>> f7bcaf4efcc3e26b0d9536651a07c5fa8d9cf7e3
