@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
@@ -132,3 +133,6 @@ google:
         sidebar: true 
         content_header: true
         content_footer: false
+=======
+theme: jekyll-theme-architect
+>>>>>>> f7bcaf4efcc3e26b0d9536651a07c5fa8d9cf7e3
