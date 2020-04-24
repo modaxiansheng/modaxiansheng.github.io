@@ -1,0 +1,26 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Javascript
+      - Python
+      - Design Patterns
+      - Linux
+
+- name: Algorithmic Research Keywords
+  keywords:
+      - Linear Regression
+      - Support Vector Machine
+      - K-Nearest Neighbors
+      - Logistic Regression
+      - K-Means
+      - Deep Learning
+      - LSTM
+      - CNN
+
+- name: Python Library Keywords
+  keywords:
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Scikit-learn
+      - Tensorflow
+      - Keras
