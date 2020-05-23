@@ -1,3 +1,7 @@
+- name: 廖雪峰老师
+  url: https://www.liaoxuefeng.com
+  src: life
+  
 - name: 码志
   url: http://mazhuang.org
   src: life
